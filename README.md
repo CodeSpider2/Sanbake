@@ -1,2 +1,2 @@
 Sanbake Bakery Repository
-<img src="img/logo1.pog"/>
+<img src="img/logo1.png"/>
